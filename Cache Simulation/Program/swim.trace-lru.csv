@@ -1,0 +1,2 @@
+Policy,Associativity,CacheSize,BlockSize,Hits,Misses,HitRate
+lru,1,1024,64,230993,72200,76.19
